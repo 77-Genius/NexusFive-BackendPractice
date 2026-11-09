@@ -9,7 +9,7 @@ const connectDB = require("./config/db");
 const PORT = process.env.PORT || 5001;
 
 // Listen on all network interfaces.
-const HOST = "0.0.0.0";
+const HOST = "127.0.0.1";
 
 
 // ============================================
